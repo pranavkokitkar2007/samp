@@ -300,7 +300,7 @@ int a = 5;
 int b = 2;
 
 cout << (a & b == 0);
-
+cout << "Hello World !" ;
 
 
 }
